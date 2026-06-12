@@ -1,4 +1,4 @@
-import './Modulos.css'
+import './modulos.css';
 
 
 export function Modulos() {
